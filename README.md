@@ -10,6 +10,7 @@
 
 ## Languages:
 - [C++](C++.cpp), 13 lines
+- [Go](Go.go), 16 lines
 - [Java](Java.java), 15 lines
 - [Javascript](javascript.js), 9 lines
 - [Python2](Python2.py), 10 lines
