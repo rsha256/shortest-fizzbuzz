@@ -1,9 +1,2 @@
 for x in range(1, 101):
-  s = ""
-  if x % 3 == 0:
-      s += "Fizz"
-  if x % 5 == 0:
-      s += "Buzz"
-  if s == "":
-      s = x
-  print(s)
+  print('FizzBuzz' if x%15==0 else 'Fizz' if x%3== 0 else 'Buzz' if x%5==0 else x)

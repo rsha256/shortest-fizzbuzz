@@ -13,8 +13,9 @@
 - [Go](Go.go), 16 lines
 - [Java](Java.java), 15 lines
 - [JavaScript](JavaScript.js), 3 lines
+- [JavaScript](js.js), 6 lines but 22 words
 - [Python2](Python2.py), 10 lines
-- [Python3](Python3.py), 10 lines
+- [Python3](Python3.py), 2 lines
 - [R](R.R), 4 lines
 
 ** **
