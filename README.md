@@ -11,7 +11,9 @@
 ## Languages:
 - [C++](C++.cpp), 13 lines
 - [Java](Java.java), 15 lines
+- [Javascript](javascript.js), lines
 - [Python3](Python3.py), 10 lines
+- [R](R.R), lines
 
 ** **
 
