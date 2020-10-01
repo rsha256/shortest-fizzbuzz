@@ -1,9 +1,2 @@
-var i = 1,
-	f = 'Fizz',
-	b = 'Buzz',
-	out = '';
-for (; i <= 100; i++) {
-	out = !(i % 3) ?  !(i % 5)? f+b : f : !(i % 5)? b : i;
-	console.log(out);
-}
-
+for (var i = 1; i <= 100; i++)
+    i % 3 == 0 ? console.log("Fizz") : i % 5 == 0 ? console.log("Buzz") : i % 3 == 0 && i % 5 == 0 ? console.log("FizzBuzz") : console.log(i);
