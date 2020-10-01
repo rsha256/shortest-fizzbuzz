@@ -9,6 +9,6 @@ public class Java {
       if (s.equals(""))
         s = "" + i;
       System.out.println(s); 
-	}
+    }
   }
 }
