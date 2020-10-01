@@ -7,3 +7,4 @@ for x in range(1, 101):
   if s == "":
       s = x
   print s
+
