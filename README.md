@@ -17,6 +17,7 @@
 - [Python2](Python2.py), 10 lines
 - [Python3](Python3.py), 2 lines
 - [R](R.R), 4 lines
+- [Rust](Rust.rs), 3 lines
 - [Ruby](Ruby.rb), 1 lines
 ** **
 
