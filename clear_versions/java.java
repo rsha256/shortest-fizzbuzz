@@ -1,5 +1,5 @@
 /**
-this is python version of calssic fizz buzz
+this is java version of calssic fizz buzz
 if num is divisile by 5 then print Buzz
 if num is divisile by 3 print FizzBuzz
 if num is divisile by 15 print FizzBuzz
