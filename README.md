@@ -21,6 +21,7 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 - [R](R.R), 4 lines
 - [Rust](Rust.rs), 3 lines
 - [Ruby](Ruby.rb), 1 lines
+- [Dart](Dart.dart), 3 lines
 
 ** **
 
