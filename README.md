@@ -13,7 +13,7 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 - [C++](C++.cpp), 13 lines
 - [Go](Go.go), 16 lines
 - [Java](Java.java), 15 lines
-- [JavaScript](JavaScript.js), 3 lines
+- [JavaScript](JavaScript.js), 2 lines
 - [JavaScript](js.js), 6 lines but 22 words
 - [Php](PHP.php), 6 lines
 - [Python2](Python2.py), 10 lines
