@@ -11,6 +11,8 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 
 ## Languages:
 - [C++](C++.cpp), 13 lines
+- [Dart](Dart.dart), 3 lines
+- [Elm](Elm.elm), 12 lines
 - [Go](Go.go), 16 lines
 - [Java](Java.java), 15 lines
 - [JavaScript](JavaScript.js), 2 lines
@@ -19,9 +21,10 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 - [Python2](Python2.py), 10 lines
 - [Python3](Python3.py), 2 lines
 - [R](R.R), 4 lines
-- [Rust](Rust.rs), 3 lines
 - [Ruby](Ruby.rb), 1 lines
-- [Dart](Dart.dart), 3 lines
+- [Rust](Rust.rs), 3 lines
+- [Scheme](Scheme.scm), 11 lines
+- [Swift](Swift.swift), 19 lines
 
 ** **
 
