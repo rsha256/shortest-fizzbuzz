@@ -10,26 +10,25 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 ** **
 
 ## Languages:
-- [C++](C++.cpp), 13 lines
-- [Dart](Dart.dart), 3 lines
-- [Elm](Elm.elm), 12 lines
-- [Go](Go.go), 16 lines
-- [Java](Java.java), 15 lines
-- [JavaScript](JavaScript.js), 2 lines
-- [JavaScript](js.js), 6 lines but 22 words
-- [Php](PHP.php), 6 lines
-- [Python2](Python2.py), 10 lines
-- [Python3](Python3.py), 2 lines
-- [R](R.R), 4 lines
-- [Ruby](Ruby.rb), 1 lines
-- [Rust](Rust.rs), 3 lines
-- [Scheme](Scheme.scm), 11 lines
-- [Swift](Swift.swift), 19 lines
+- [C++](C++.cpp), 231 bytes
+- [Dart](Dart.dart), 124 bytes
+- [Elm](Elm.elm), 297 bytes
+- [Go](Go.go), 330 bytes
+- [Java](Java.java), 263 bytes
+- [JavaScript](JavaScript.js), 107 bytes
+- [PHP](PHP.php), 244 bytes
+- [Python2](Python2.py), 140 bytes
+- [Python3](Python3.py), 61 bytes
+- [R](R.R),110 bytes
+- [Ruby](Ruby.rb), 82 bytes
+- [Rust](Rust.rs),188 bytes
+- [Scheme](Scheme.scm), 433 bytes
+- [Swift](Swift.swift), 578 bytes
 
 ** **
 
 ## Contributing:
-1. Alphabetically add your addition here to [README.md](README.md) in the format `[<language name>](<file-name>), <number-of-lines> lines`. Count the number of lines _after_ the file is formatted by your editor to prevent unreadable code. 
+1. Alphabetically add your addition here to [README.md](README.md) in the format `[<language name>](<file-name>), <number-of-bytes> bytes`. GitHub tells you the number of **bytes** for any file. 
 2. Add a file to the root of the repo in the form of: `<language-name>.<file-extension>` that satisfies the rules above. 
 
 ## Notes:
