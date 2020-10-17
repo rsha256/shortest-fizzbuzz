@@ -20,7 +20,7 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 - [Perl6](Perl6.pl), 54 bytes
 - [PHP](PHP.php), 244 bytes
 - [Python2](Python2.py), 140 bytes
-- [Python3](Python3.py), 108 bytes
+- [Python3](Python3.py), 70 bytes
 - [R](R.R),110 bytes
 - [Ruby](Ruby.rb), 82 bytes
 - [Rust](Rust.rs),188 bytes
@@ -39,4 +39,3 @@ Try to write a detailed commit message.
 If possible make sure you end your file with a newline at the end and are using LF as opposed to CRLF Line sequences.
 
 Feel free to improve on existing solutions if you can do better :)
-
