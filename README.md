@@ -17,7 +17,7 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 - [Java](Java.java), 263 bytes
 - [JavaScript](JavaScript.js), 107 bytes
 - [PHP](PHP.php), 244 bytes
-- [Python2](Python2.py), 140 bytes
+- [Python2](Python2.py), 55 bytes
 - [Python3](Python3.py), 56 bytes
 - [R](R.R),110 bytes
 - [Ruby](Ruby.rb), 82 bytes
