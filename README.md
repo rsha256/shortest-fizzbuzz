@@ -16,6 +16,7 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 - [Go](Go.go), 330 bytes
 - [Java](Java.java), 263 bytes
 - [JavaScript](JavaScript.js), 107 bytes
+- [Perl6](Perl6.pl), 54 bytes
 - [PHP](PHP.php), 244 bytes
 - [Python2](Python2.py), 140 bytes
 - [Python3](Python3.py), 61 bytes
