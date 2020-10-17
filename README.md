@@ -10,14 +10,16 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 ** **
 
 ## Languages:
+- [C](C.c), 140 bytes
 - [C++](C++.cpp), 231 bytes
 - [Dart](Dart.dart), 124 bytes
 - [Elm](Elm.elm), 297 bytes
 - [Go](Go.go), 330 bytes
 - [Java](Java.java), 263 bytes
 - [JavaScript](JavaScript.js), 107 bytes
+- [Perl6](Perl6.pl), 54 bytes
 - [PHP](PHP.php), 244 bytes
-- [Python2](Python2.py), 140 bytes
+- [Python2](Python2.py), 55 bytes
 - [Python3](Python3.py), 57 bytes
 - [R](R.R),110 bytes
 - [Ruby](Ruby.rb), 82 bytes
@@ -37,4 +39,3 @@ Try to write a detailed commit message.
 If possible make sure you end your file with a newline at the end and are using LF as opposed to CRLF Line sequences.
 
 Feel free to improve on existing solutions if you can do better :)
-
