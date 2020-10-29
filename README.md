@@ -28,6 +28,8 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 - [Swift](Swift.swift), 578 bytes
 
 ** **
+## Common Lisp:
+Common Lisp is a general-purpose programming language and thus has a large language standard including many built-in data types, functions, macros and other language elements, and an object system (Common Lisp Object System).Typing discipline: Dynamic, strong. Filename extensions: lisp,.lsp,.l,.cl,.fasl. Scope: Lexical, optionally dynamic.
 
 ## Contributing:
 1. Alphabetically add your addition here to [README.md](README.md) in the format `[<language name>](<file-name>), <number-of-bytes> bytes`. GitHub tells you the number of **bytes** for any file. 
