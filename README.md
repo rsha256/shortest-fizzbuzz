@@ -22,7 +22,7 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 - [Python2](Python2.py), 59 bytes
 - [Python3](Python3.py), 61 bytes
 - [R](R.R),110 bytes
-- [Ruby](Ruby.rb), 72 bytes
+- [Ruby](Ruby.rb), 69 bytes
 - [Rust](Rust.rs),188 bytes
 - [Scheme](Scheme.scm), 433 bytes
 - [Swift](Swift.swift), 578 bytes
