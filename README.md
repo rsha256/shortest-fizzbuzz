@@ -11,7 +11,6 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 
 ## Languages:
 - [C](C.c), 140 bytes
-- [C++](C++.cpp), 231 bytes
 - [Dart](Dart.dart), 124 bytes
 - [Elm](Elm.elm), 297 bytes
 - [Go](Go.go), 330 bytes
