@@ -1,3 +1,1 @@
-fn main() {
-  (1..=100).for_each(|x| println!("{}", match (x%3, x%5) {(0,0) => "FizzBuzz".into(), (0, _) => "Fizz".into(), (_,0) => "Buzz".into(), (_,_) => x.to_string()}))
-}
+fn main(){for i in 1..101{if i%3<1{print!("Fizz")}if i%5<1{print!("Buzz")}else if i%3>0{print!{"{i}"}}println!()}}
