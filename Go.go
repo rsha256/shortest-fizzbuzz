@@ -11,7 +11,7 @@ func main() {
 		if i%5 < 1 {
 			p("Buzz")
 		}
-		if i%3 > 0 && i%5 > 0 {
+		if i%3*i%5 > 0 {
 			p(i)
 		}
 		p("\n")
