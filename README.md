@@ -14,7 +14,7 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 - [C++](C++.cpp), 231 bytes
 - [Dart](Dart.dart), 124 bytes
 - [Elm](Elm.elm), 297 bytes
-- [Go](Go.go), 330 bytes
+- [Go](Go.go), 140 bytes
 - [Haskell](Haskell.hs), 113 bytes
 - [Java](Java.java), 106 bytes
 - [JavaScript](JavaScript.js), 64 bytes
