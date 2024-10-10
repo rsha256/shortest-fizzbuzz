@@ -14,12 +14,12 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 - [C++](C++.cpp), 231 bytes
 - [Dart](Dart.dart), 124 bytes
 - [Elm](Elm.elm), 297 bytes
-- [Go](Go.go), 330 bytes
+- [Go](Go.go), 140 bytes
 - [Haskell](Haskell.hs), 113 bytes
 - [Java](Java.java), 106 bytes
 - [JavaScript](JavaScript.js), 64 bytes
 - [Perl6](Perl6.pl), 54 bytes
-- [PHP](PHP.php), 69 bytes
+- [PHP](PHP.php), 68 bytes
 - [Python2](Python2.py), 59 bytes
 - [Python3](Python3.py), 61 bytes
 - [R](R.R),110 bytes
