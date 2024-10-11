@@ -3,8 +3,8 @@ package main
 import . "fmt"
 
 func main() {
-	p := Print
-	for i := 1; i < 101; i++ {
+	p, i := Print, 1
+	for i < 101 {
 		if i%3 < 1 {
 			p("Fizz")
 		}
@@ -15,5 +15,6 @@ func main() {
 			p(i)
 		}
 		p("\n")
+		i++
 	}
 }
