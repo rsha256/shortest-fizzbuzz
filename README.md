@@ -21,7 +21,7 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 - [Perl6](Perl6.pl), 54 bytes
 - [PHP](PHP.php), 68 bytes
 - [Python2](Python2.py), 59 bytes
-- [Python3](Python3.py), 61 bytes
+- [Python3](Python3.py), 59 bytes
 - [R](R.R),110 bytes
 - [Ruby](Ruby.rb), 69 bytes
 - [Rust](Rust.rs), 115 bytes
