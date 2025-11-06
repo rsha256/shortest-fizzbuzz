@@ -1,2 +1,2 @@
-#include <stdio.h>
-main(i){for(;i<101;i++)printf(i%3?i%5?"%d\n":"Buzz\n":i%5?"Fizz\n":"FizzBuzz\n",i);}
+#define p printf(
+main(i){for(;i%101;i++){p i%3?"":"Fizz")+p i%5?"":"Buzz")?:p"%d",i);p"\n");}}
