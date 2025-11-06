@@ -10,7 +10,7 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 ** **
 
 ## Languages:
-- [C](C.c), 104 bytes
+- [C](C.c), 95 bytes
 - [C++](C++.cpp), 231 bytes
 - [Dart](Dart.dart), 124 bytes
 - [Elm](Elm.elm), 297 bytes
@@ -29,8 +29,8 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 - [Swift](Swift.swift), 578 bytes
 
 ## Contributing:
-1. Alphabetically add your addition here to [README.md](README.md) in the format `[<language name>](<file-name>), <number-of-bytes> bytes`. GitHub tells you the number of **bytes** for any file. 
-2. Add a file to the root of the repo in the form of: `<language-name>.<file-extension>` that satisfies the rules above. 
+1. Alphabetically add your addition here to [README.md](README.md) in the format `[<language name>](<file-name>), <number-of-bytes> bytes`. GitHub tells you the number of **bytes** for any file.
+2. Add a file to the root of the repo in the form of: `<language-name>.<file-extension>` that satisfies the rules above.
 
 ## Notes:
 Try to write a detailed commit message.
